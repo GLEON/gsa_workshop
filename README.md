@@ -1,4 +1,4 @@
-gsa_workshop
+Example repository for GSA G16 workshop
 ============
 
-Test repository for GSA workshop
+Repository for people to experiment with.
